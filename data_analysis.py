@@ -26,11 +26,6 @@ import marimo as mo
 
 app = mo.App()
 
-def __():
-    mo.md("""
-**Email:** 22f3000284@ds.study.iitm.ac.in
-""")
-    
 @app.cell
 def __():
     # [Cell 1] Core imports and a reproducible random number generator.
