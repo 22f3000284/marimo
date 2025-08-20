@@ -1,4 +1,4 @@
-# Email: 22f3000284@ds.study.iitm.ac.in
+# 22f3000284@ds.study.iitm.ac.in
 #
 # Notebook goals:
 # - Demonstrate the relationship between variables in a synthetic dataset.
